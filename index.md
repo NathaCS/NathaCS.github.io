@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to to my Github Page!
 
-You can use the [editor on GitHub](https://github.com/NathaCS/NathaCS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jonathan Yang and I will be graduating end of Summer 2018 with a B.S. in Computer Science w/specialization in Computer Architecture and Algorithms from Davenport University. This page will serve as a portfolio for my personal projects, contributions, and achievements as well as my professional experiences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
 ```markdown
-Syntax highlighted code block
+#IT Student Assistant (Michigan Department of Technology, Management, and Budget) 2016 - Current
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
