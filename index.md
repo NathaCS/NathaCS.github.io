@@ -6,7 +6,7 @@ My name is Jonathan Yang and I will be graduating end of Summer 2018 with a B.S.
 ### Experience
 
 ```markdown
-IT Student Assistant (Michigan Department of Technology, Management, and Budget) March 2016 - Current
+'IT Student Assistant (Michigan Department of Technology, Management, and Budget) March 2016 - Current'
 Primary Software QA resource for Michigan's new Intermodal Management System
 Developed new scripts to perform functional testing 
 Updated old scripts to work with dynamic webpages and made them easier to maintain
