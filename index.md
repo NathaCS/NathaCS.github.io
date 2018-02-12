@@ -13,6 +13,7 @@ Primary Software QA resource for Michigan's new Intermodal Management System
 - Established traceability matrix for Defects-Test Cases-User Stories
 - Defect & Bug Discovery
 - Researched & Designed new QA workflow process in Serena Business Manager
+
 Performed application development using technologies such as:
 - Java, JBoss, Hibernate, Spring, and others to fix defects on maintenance projects. 
 
