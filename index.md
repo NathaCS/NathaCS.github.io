@@ -1,6 +1,6 @@
 ## Welcome to to my Github Page!
 
-My name is Jonathan Yang and I will be graduating end of Summer 2018 with a B.S. in Computer Science with a specialization in Computer Architecture and Algorithms from Davenport University. This page will serve as a portfolio for my personal projects, contributions, and achievements as well as my professional experiences.
+My name is Jonathan Yang and I will be graduating end of Summer 2018 with a B.S. in Computer Science with a specialization in Computer Architecture and Algorithms from Davenport University. This page will serve as a portfolio for my personal projects, contributions, and achievements as well as my professional experiences. Now that I am finishing up school, my goal is to become a professional Software Engineer which is an area that I've took interest in for a long time and where my educational background focuses on. 
 
 
 ### Experience
